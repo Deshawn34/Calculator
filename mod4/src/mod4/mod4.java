@@ -19,7 +19,7 @@ public class mod4 {
 				while(true) {
 					
 					System.out.println("\nSelect Operation\n1. ADD\n2. SUBTRACT\n3. MULTIPLY\n4. DIVIDE");
-					System.out.println("Enter Choice (1, 2, 3, 4): ");
+					System.out.println("Choose (1, 2, 3, 4): ");
 					choice = inp.nextInt();
 							
 					System.out.println("Enter First Number: ");
